@@ -33,14 +33,6 @@ they live in.
 
 *Pull Shark ×3 — 512+ merged pull requests. Still swimming.*
 
-## 🎯 Career highlights
-
-- 📺 **[Aura](https://www.youtube.com/watch?v=uu_1JCrZVII)** — Head of Engineering for the world's first fully serverless AWS OTT streaming platform, live-streaming NBA into Australia; first-of-kind multi-camera Melbourne Cup app; later replatformed to Kubernetes. Scaled the team 5 → 20.
-- 💸 **Assembly Payments** — shipped Australia's first non-bank real-time payments API; cut AWS spend 70%; release success 20% → 99%.
-- 🏇 **Sportsbet** — engineered the betting platform from 2,800 to 18,000 bets/minute with fully automated CI/CD and CIS-aligned builds.
-- 🗺️ **[.id](https://www.id.com.au/) (Informed Decisions)** — led an AWS MAP cloud migration: multi-account landing zone with Transit Gateway, reusable OpenTofu modules (85% less IaC code), eight apps moved (.NET 8, Python/Streamlit, React), an AI-assisted migration method 5–7× faster, and geospatial ETL pipelines on Pandas/GeoPandas.
-- 🏦 …plus platform leadership along the way at **MYOB**, **Aconex**, **REA Group**, **Betfair**, **NBN Co**, **ANZ** and **Citigroup**.
-
 ## 🛠 Toolbox
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)

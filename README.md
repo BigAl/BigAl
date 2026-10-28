@@ -1,15 +1,17 @@
 ### G'day, I'm Alan 👋
 
-Platform and infrastructure engineer — I design the platform, then ship the
-apps that run on it. Started out building machines (Packer, Ansible, Vagrant);
-now I build the cloud they live in.
+Platform and infrastructure engineer with 20+ years across streaming, payments,
+wagering and finance. I design the platform, then ship the apps that run on it —
+started out building machines (Packer, Ansible, Vagrant); now I build the cloud
+they live in.
 
-- 🏗️ **Infrastructure as code** — OpenTofu/Terraform on Azure and AWS: private networking, Key Vault, Postgres, Front Door, observability, and CI that deploys with OIDC instead of long-lived credentials
+- 🏗️ **Infrastructure as code** — OpenTofu/Terraform on Azure and AWS: multi-account landing zones, private networking, Key Vault, Postgres, Front Door, observability, and CI that deploys with OIDC instead of long-lived credentials
 - 🧩 **Full-stack TypeScript** — NestJS + Drizzle + PostgreSQL behind, Next.js + React in front, with audit logs on every write
+- 🐍 **Python when the job wants it** — data pipelines with Pandas, GeoPandas and SQLAlchemy; pytest suites that actually get written
 - 📐 **Architecture as code** — ports-and-adapters layouts with policy tests that fail the build, not the code review
 - 🐧 **The classics** — golden images, CIS-hardened Ansible, and far too much shell
 - 💼 **Consulting** — through [DIJGTAL](https://dijgtal.com), a Sydney digital agency, I build customer portals, SSO/identity (LoginRadius) and commerce platforms on Azure for enterprise brands
-- 🌏 UTC+11 · 🐦 [@bigal](https://twitter.com/bigal)
+- 🌏 Canberra, Australia (UTC+11) · 🐦 [@bigal](https://twitter.com/bigal)
 
 ## 🏆 Achievements
 
@@ -31,6 +33,14 @@ now I build the cloud they live in.
 
 *Pull Shark ×3 — 512+ merged pull requests. Still swimming.*
 
+## 🎯 Career highlights
+
+- 📺 **[Aura](https://www.youtube.com/watch?v=uu_1JCrZVII)** — Head of Engineering for the world's first fully serverless AWS OTT streaming platform, live-streaming NBA into Australia; first-of-kind multi-camera Melbourne Cup app; later replatformed to Kubernetes. Scaled the team 5 → 20.
+- 💸 **Assembly Payments** — shipped Australia's first non-bank real-time payments API; cut AWS spend 70%; release success 20% → 99%.
+- 🏇 **Sportsbet** — engineered the betting platform from 2,800 to 18,000 bets/minute with fully automated CI/CD and CIS-aligned builds.
+- 🗺️ **[.id](https://www.id.com.au/) (Informed Decisions)** — led an AWS MAP cloud migration: multi-account landing zone with Transit Gateway, reusable OpenTofu modules (85% less IaC code), eight apps moved (.NET 8, Python/Streamlit, React), an AI-assisted migration method 5–7× faster, and geospatial ETL pipelines on Pandas/GeoPandas.
+- 🏦 …plus platform leadership along the way at **MYOB**, **Aconex**, **REA Group**, **Betfair**, **NBN Co**, **ANZ** and **Citigroup**.
+
 ## 🛠 Toolbox
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -39,11 +49,14 @@ now I build the cloud they live in.
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
